@@ -22,29 +22,29 @@ A metodologia de ensino combina aulas expositivas com discussão de casos práti
 O conteúdo da disciplina está dividido em cinco unidades principais:
 
 ### Unidade I: Visão Geral da Ciência da Computação
-- [cite_start]**Professor:** Iago Augusto de Carvalho 
-- [cite_start]**Tópicos:** Visão geral sobre a Ciência da Computação, a relação entre suas áreas e uma visão sobre fundamentos e tecnologia. 
-- [cite_start]**Objetivo:** Reconhecer os conceitos básicos da disciplina e sua aplicabilidade. 
+- **Professor:** Iago Augusto de Carvalho 
+- **Tópicos:** Visão geral sobre a Ciência da Computação, a relação entre suas áreas e uma visão sobre fundamentos e tecnologia. 
+- **Objetivo:** Reconhecer os conceitos básicos da disciplina e sua aplicabilidade. 
 
 ### Unidade II: Histórico da Computação
-- [cite_start]**Professor:** Iago Augusto de Carvalho 
-- [cite_start]**Tópicos:** A evolução da Computação e a história dos sistemas computacionais que marcaram época. 
-- [cite_start]**Objetivo:** Reconhecer e analisar os fatos que marcaram a história da Computação. 
+- **Professor:** Iago Augusto de Carvalho 
+- **Tópicos:** A evolução da Computação e a história dos sistemas computacionais que marcaram época. 
+- **Objetivo:** Reconhecer e analisar os fatos que marcaram a história da Computação. 
 
 ### Unidade III: Comandos em Linux/Unix e Shell Script
-- [cite_start]**Professor:** Iago Augusto de Carvalho 
-- [cite_start]**Tópicos:** Utilização de sistemas operacionais Linux/Unix via linha de comando, introdução à programação shell script e automatização de tarefas. 
-- [cite_start]**Objetivo:** Desenvolver a habilidade de utilizar o SO Linux/Unix e programar em Shell Script. 
+- **Professor:** Iago Augusto de Carvalho 
+- **Tópicos:** Utilização de sistemas operacionais Linux/Unix via linha de comando, introdução à programação shell script e automatização de tarefas. 
+- **Objetivo:** Desenvolver a habilidade de utilizar o SO Linux/Unix e programar em Shell Script. 
 
 ### Unidade IV: Git e Controle de Versão
-- [cite_start]**Professor:** Iago Augusto de Carvalho 
-- [cite_start]**Tópicos:** Conceitos de controle de versão de códigos e softwares e comandos básicos de Git. 
-- [cite_start]**Objetivo:** Entender e realizar o controle de versão utilizando repositórios remotos baseados no protocolo Git. 
+- **Professor:** Iago Augusto de Carvalho 
+- **Tópicos:** Conceitos de controle de versão de códigos e softwares e comandos básicos de Git. 
+- **Objetivo:** Entender e realizar o controle de versão utilizando repositórios remotos baseados no protocolo Git. 
 
 ### Unidade V: Introdução à Programação Web
-- [cite_start]**Professor:** Iago Augusto de Carvalho 
-- [cite_start]**Tópicos:** Estado da arte da programação web, HTML básico e a construção do primeiro site. 
-- [cite_start]**Objetivo:** Desenvolver a habilidade de programação web e a criação básica de sites. 
+- **Professor:** Iago Augusto de Carvalho 
+- **Tópicos:** Estado da arte da programação web, HTML básico e a construção do primeiro site. 
+- **Objetivo:** Desenvolver a habilidade de programação web e a criação básica de sites. 
 
 ---
 
