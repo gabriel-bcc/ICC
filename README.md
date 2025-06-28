@@ -1,8 +1,8 @@
 <p align="center">
 Universidade Federal de Alfenas (Unifal-MG)</strong><br>
 <strong>Curso:</strong> Ciência da Computação (08) <br>
-<strong>Ano/Semestre:</strong> 2025 / Primeiro <br>
-<strong>Professores:</strong> Iago Augusto de Carvalho 
+<strong>Ano/Semestre:</strong> 2025 / Primeiro<br>
+<strong>Professor:</strong> Iago Augusto de Carvalho 
 </p>
 
 ---
@@ -61,5 +61,5 @@ O conteúdo da disciplina está dividido em cinco unidades principais:
 ---
 
 <p align="center">
-  Este README foi criado com base no Programa de Ensino e no Planejamento de Atividades da disciplina.
+  Este README foi criado com base no Programa de Ensino da disciplina.
 </p>
